@@ -2,6 +2,7 @@ public class Variables {
     public static void main(String[]args) {
         
         //Este es un Comentario de Linea Simple
+
         /*
          * 
          * Este es un Comentario Multilinea
@@ -36,7 +37,7 @@ public class Variables {
         //Imprimiendo: El numero es 5
         System.out.println("El numero es: "+a);
         System.out.println(b);
-
+        System.out.println(d);
    
 
         
