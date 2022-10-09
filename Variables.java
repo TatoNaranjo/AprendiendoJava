@@ -39,7 +39,23 @@ public class Variables {
         System.out.println(b);
         System.out.println(d);
    
-
+        int numeroUno = 5;
+        int numeroDos = 8;
+       
+        int suma =  numeroUno + numeroDos;
+        int resta = numeroDos - numeroDos;
+        int multiplicacion = numeroDos*numeroUno;
+        int division = numeroUno/numeroDos;
+        int modulo = numeroDos/numeroUno;
         
+        String text1 = "hola ";
+        String text2 = "mundo";
+        String total =  text1 + text2;
+        System.out.println(total);
+      //  int suma = numeroUno+numeroDos;
+
+
+      //  System.out.print(suma);
+         
     }
 }
